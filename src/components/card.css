@@ -1,0 +1,11 @@
+.card {
+  border-radius: 10px;
+  background: #e0e0e0;
+  box-shadow: 5px 5px 10px #000008, -5px -5px 10px #353769;
+  padding: 10px 5px;
+  margin: 10px;
+}
+.card:hover {
+  transform: scale(1.01);
+  transition: 0.1s;
+}
